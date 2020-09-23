@@ -1,0 +1,14 @@
+ÿbProgram Syntax:
+
+Appname.exe -install
+      - Installs this application as a Windows NT Service
+
+Appname.exe -uninstall
+     - UN-Installs this applicaion as a Windows NT Service
+
+
+Appname.exe
+    - Runs the program as normal.
+
+
+BE SURE TO CHECK NT SERVICE SETTINGS!! This program installs as 'disabled' anyway,but allways good to be safe.
